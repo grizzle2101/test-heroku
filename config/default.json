@@ -1,0 +1,5 @@
+{
+    "name": "My Express Application",
+    "jwtPrivateKey": "",
+    "db": "mongodb://localhost/default-db"
+}
